@@ -1,0 +1,41 @@
+
+ .listItemUpdate{
+    width:80px;
+    background-color: #93f432;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 5px;
+    border:1px solid grey}
+.listItemSave{
+    width:80px;
+    background-color: #FFF3CD;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 5px;
+    border:1px solid grey}
+
+.listItemDelete{
+    background-color: #FFF3CD;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 5px;
+    border:1px solid grey
+} 
+.listItemDiv{
+    width:720px;
+    background-color:  #FFF3CD;
+    height: 50px;
+    padding:5px 10px;
+    border-radius: 0px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 5px;
+}
+.listItemInput{
+    background-color: #f5f1e2;
+    border:1px solid grey;
+    padding:12px;
+    width:70%
+} 

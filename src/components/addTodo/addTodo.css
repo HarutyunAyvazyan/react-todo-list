@@ -1,0 +1,28 @@
+.addTodoParentDiv{
+    width:90%;
+    background-color: rgb(247, 243, 243);
+    height: 50px;
+    padding:5px 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    border:1px solid black
+}
+.addTodoInput{
+    width:90%;
+    padding:10px;
+    border-radius: 5px;
+    border:1px solid rgb(217, 216, 216);
+}
+
+.addTodoButton{
+    background-color: rgb(51, 48, 48);
+    padding: 10px;
+    border-radius: 5px;
+    color:grey;
+    border:1px solid rgb(217, 216, 216);
+    cursor: pointer;
+    background-color: rgb(247, 243, 243);
+  
+}

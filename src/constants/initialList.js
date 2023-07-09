@@ -1,16 +1,16 @@
 const initialList = [
     {
-        id: 1,
+        id: Math.random(),
         isCheked:false,
         content: "This is a dummy task"
     },
     {
-        id: 2,
+        id: Math.random(),
         isCheked:false,
         content: "This is another dummy task"
     },
     {
-        id: 3,
+        id: Math.random(),
         isCheked:false,
         content: "A fully functional to-do list application with React"
     }

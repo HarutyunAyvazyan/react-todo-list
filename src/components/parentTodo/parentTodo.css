@@ -1,0 +1,10 @@
+.parentTodo{
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border:1px solid grey;
+    background-color:white;
+    padding-bottom: 60px;
+
+}
